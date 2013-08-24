@@ -1,0 +1,21 @@
+{
+  "name": "duffel-ngtable",
+  "version": "0.0.1",
+  "authors": [
+    "Michael Robinson <mike@pagesofinterest.net>"
+  ],
+  "description": "AngularJS directive that binds a resource to a HTML table.",
+  "main": "directives/duffel-ngtable.js",
+  "keywords": [
+    "AngularJS",
+    "Table"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
