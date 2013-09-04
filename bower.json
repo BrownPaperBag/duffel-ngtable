@@ -1,6 +1,6 @@
 {
   "name": "duffel-ngtable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Michael Robinson <mike@pagesofinterest.net>"
   ],
@@ -10,6 +10,9 @@
     "AngularJS",
     "Table"
   ],
+  "dependencies": {
+    "ngcompile": "latest"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
